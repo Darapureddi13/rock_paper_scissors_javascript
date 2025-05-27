@@ -31,7 +31,7 @@ Here are some screenshots of the game:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/sharmilashaik218/rock-paper-scissors-JavaScript.git
+    git clone https://github.com/Darapureddi13/rock_paper_scissors_javascript.git
     ```
 
 2. Open the `index.html` file in your browser to play the game.
